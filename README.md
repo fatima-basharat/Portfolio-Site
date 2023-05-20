@@ -1,6 +1,6 @@
 # Portfolio : <a target="_blank" href="">Visit Here</a>
 
-## Portfolio Site including links to my projects and ways to get in contact with me.
+## Portfolio Site including links to my projects and ways to get in contact with me
 
 ## Tech used: 
 <div style="display: flex; flex-direction: row;" align=left >
