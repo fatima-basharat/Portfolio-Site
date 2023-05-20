@@ -23,4 +23,3 @@ My learning was focused on making a simple UI and a smooth UX.
 When I improve this project, I would like to add a feature to display night time mode.
 
 ## Lessons Learned:
-# Portfolio
